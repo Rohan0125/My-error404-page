@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://my-error-page.web.app/}">
+    <a href="https://{my-error-page.web.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://my-error-page.web.app/}">
+    <a href="https://{my-error-page.web.app/}">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{yhttps://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY}">
+    <a href="https://{devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY}">
       Challenge
     </a>
   </h3>
